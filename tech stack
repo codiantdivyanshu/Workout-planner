@@ -1,0 +1,11 @@
+
+🛠 Tech Stack
+Frontend: Streamlit
+
+Backend: Python logic
+
+Database: SQLite (via sqlite3)
+
+Timer: Python’s time, possibly threading for real-time updates
+
+Optional: Audio cues (via playsound or streamlit_audio)
